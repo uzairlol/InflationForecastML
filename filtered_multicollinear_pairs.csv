@@ -1,0 +1,53 @@
+Feature 1,Feature 2,Correlation
+Advances by banks,National Consumer Price Index,0.9436662525979129
+Advances by banks,Credit to the Private Sector,0.9961879562852867
+Advances by banks,Deposits of Banks,0.9843892294172455
+Advances by banks,Pakistani Rupee to US Dollar Nominal Exchange Rate,0.9297786837270097
+Advances by banks,Fertilizers Sales,0.974906359710351
+Advances by banks,Public Sector Borrowing,0.981328864125522
+Advances by banks,Real Output - Quantum Index of Large-Scale Manufacturing Industries,0.815789373887285
+Call Money Rate (End of Period),Deposit Rate,0.9842783358057766
+Call Money Rate (End of Period),Pakistani Rupee to US Dollar Nominal Exchange Rate,0.8088272940677635
+Call Money Rate (End of Period),KIBOR 1 Year Interest Rate,0.994102667541199
+Call Money Rate (End of Period),KIBOR 6 months Interest Rate,0.9952567800245788
+Call Money Rate (End of Period),Lending Rate,0.976749981593495
+Call Money Rate (End of Period),SBP Policy Rate,0.9917342217527505
+Call Money Rate (End of Period),Weighted Average Overnight Repo Rate ,0.9966612363959222
+National Consumer Price Index,Credit to the Private Sector,0.9216491451711083
+National Consumer Price Index,Deposits of Banks,0.9660992006446176
+National Consumer Price Index,Pakistani Rupee to US Dollar Nominal Exchange Rate,0.9862534808450045
+National Consumer Price Index,Fertilizers Sales,0.8925631458878234
+National Consumer Price Index,Public Sector Borrowing,0.9790558979615984
+Credit to the Private Sector,Deposits of Banks,0.9781907885867486
+Credit to the Private Sector,Pakistani Rupee to US Dollar Nominal Exchange Rate,0.9042846085832374
+Credit to the Private Sector,Fertilizers Sales,0.9785098094089004
+Credit to the Private Sector,Public Sector Borrowing,0.9711202709845257
+Credit to the Private Sector,Real Output - Quantum Index of Large-Scale Manufacturing Industries,0.8346334058575681
+Deposits of Banks,Pakistani Rupee to US Dollar Nominal Exchange Rate,0.94018883089931
+Deposits of Banks,Fertilizers Sales,0.9680963150170114
+Deposits of Banks,Public Sector Borrowing,0.9947718776481318
+Deposits of Banks,Real Output - Quantum Index of Large-Scale Manufacturing Industries,0.8014228412498297
+Deposit Rate,KIBOR 1 Year Interest Rate,0.9794856237388735
+Deposit Rate,KIBOR 6 months Interest Rate,0.9827555500549287
+Deposit Rate,Lending Rate,0.9880050282268715
+Deposit Rate,SBP Policy Rate,0.9923293049277234
+Deposit Rate,Weighted Average Overnight Repo Rate ,0.9875256037468308
+Pakistani Rupee to US Dollar Nominal Exchange Rate,Fertilizers Sales,0.8630001235327094
+Pakistani Rupee to US Dollar Nominal Exchange Rate,KIBOR 1 Year Interest Rate,0.8040186335746158
+Pakistani Rupee to US Dollar Nominal Exchange Rate,KIBOR 6 months Interest Rate,0.8035521670152886
+Pakistani Rupee to US Dollar Nominal Exchange Rate,Public Sector Borrowing,0.9629370013974521
+Fertilizers Sales,Public Sector Borrowing,0.9569553578115366
+Fertilizers Sales,Real Output - Quantum Index of Large-Scale Manufacturing Industries,0.8563923458550542
+Karachi Stock Exchange 100 Index,Karachi Stock Exchange All Shares Index,0.9928662795790766
+Karachi Stock Exchange 100 Index,Real Output - Quantum Index of Large-Scale Manufacturing Industries,0.8157538761940181
+KIBOR 1 Year Interest Rate,KIBOR 6 months Interest Rate,0.9994624099426709
+KIBOR 1 Year Interest Rate,Lending Rate,0.9682893149657023
+KIBOR 1 Year Interest Rate,SBP Policy Rate,0.9912099001995666
+KIBOR 1 Year Interest Rate,Weighted Average Overnight Repo Rate ,0.9927355100220512
+KIBOR 6 months Interest Rate,Lending Rate,0.9729503816029144
+KIBOR 6 months Interest Rate,SBP Policy Rate,0.9934268572641985
+KIBOR 6 months Interest Rate,Weighted Average Overnight Repo Rate ,0.9952013595123463
+Karachi Stock Exchange All Shares Index,Real Output - Quantum Index of Large-Scale Manufacturing Industries,0.808544399783826
+Lending Rate,SBP Policy Rate,0.9861534057327025
+Lending Rate,Weighted Average Overnight Repo Rate ,0.9811791152370571
+SBP Policy Rate,Weighted Average Overnight Repo Rate ,0.9956240312307186
